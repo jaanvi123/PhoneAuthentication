@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43796676804",
+    "firebase_url": "https://authenticationwithfb-7bf7b.firebaseio.com",
+    "project_id": "authenticationwithfb-7bf7b",
+    "storage_bucket": "authenticationwithfb-7bf7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43796676804:android:7c3ddf209b670621",
+        "android_client_info": {
+          "package_name": "com.jaanvi.authenticationwithfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43796676804-9407v6kkah75tpssm1vpdn7d13sd4g4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaanvi.authenticationwithfb",
+            "certificate_hash": "4cafd5bc16ebb647cced9ab8057a19904c70c6f3"
+          }
+        },
+        {
+          "client_id": "43796676804-kfclk5a60m9th2vm3c940oo70hgobuo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8J3C3rzL4Econ-U7_v1UlKhAVHYr4CpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43796676804-kfclk5a60m9th2vm3c940oo70hgobuo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
